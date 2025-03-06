@@ -1,31 +1,16 @@
 # My CLI App
 
 ## Description
-My CLI App is a command-line application built in Python that provides various functionalities through a simple interface. 
+Este projeto foi escrito quase que 100% com o Chat do copilot
 
-## Features
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+## Geração da estrutura do projeto
+![Geração da estrutura do projeto](./images/image1.png)
 
-## Installation
-To install the required dependencies, run the following command:
+## Criação da etapa de captura do número do cartão de crédito
+![Criação da etapa de captura do número do cartão de crédito](./images/image2.png)
 
-```
-pip install -r requirements.txt
-```
+## Criação da função para validar de acordo com a bandeira
+![Criação da função para validar de acordo com a bandeira](./images/image3.png)
 
-## Usage
-To run the application, use the following command:
-
-```
-python src/main.py [options]
-```
-
-Replace `[options]` with the appropriate command-line arguments.
-
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## Realizando alguns tratamentos no dado recebido do usuário
+![Realizando alguns tratamentos no dado recebido do usuário](./images/image4.png)
